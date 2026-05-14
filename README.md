@@ -1,1 +1,0 @@
-# xauusd-ai-pro
