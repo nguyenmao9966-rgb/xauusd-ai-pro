@@ -6,9 +6,5 @@ plotly>=5.18.0
 python-dateutil>=2.8.2
 python-telegram-bot==20.8
 scikit-learn>=1.4.0
-MetaTrader5>=5.0.0  # Tùy chọn cho MT5 connection (cần chạy MT5 terminal)
-fastapi>=0.110.0
-uvicorn[standard]>=0.29.0
-stripe>=9.0.0
 supabase>=2.3.0
 python-dotenv>=1.0.0
